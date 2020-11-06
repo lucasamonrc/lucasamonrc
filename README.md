@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at [Utah County Government](https://utahcounty.gov)
 
-- 💻 All of my projects are available at [GitHub](https://github.com/lucasamonrc?tab=repositories)
+- 💻 All of my projects are available on my [GitHub](https://github.com/lucasamonrc?tab=repositories)
 
 - ▶️ I ocassionaly post blogs on [medium.com/@lucasamonrc](https://medium.com/@lucasamonrc)
 
