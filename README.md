@@ -6,7 +6,7 @@
 
 - 💻 All of my projects are available on my [GitHub](https://github.com/lucasamonrc?tab=repositories)
 
-- ▶️ I ocassionaly post blogs on [medium.com/@lucasamonrc](https://medium.com/@lucasamonrc)
+- :memo: I ocassionaly post blogs on [medium.com/@lucasamonrc](https://medium.com/@lucasamonrc)
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, and Testing**
 
