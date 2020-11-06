@@ -26,5 +26,5 @@
 <p align="center">
 <a href="https://twitter.com/lucasamonrc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lucasamonrc" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/lucasamonrc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lucasamonrc" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/lucasamonrc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="lucasamonrc" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/story/lucasamonrc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="lucasamonrc" height="20" width="20" /></a>
 </p>
