@@ -1,43 +1,30 @@
-# Lucas Castro
+<h1 align="center">Hello there 👋, I'm Lucas Castro</h1>
+<h3 align="center">I’m a father, a husband, a teacher, and a software engineer. My mission is to build and deliver quality software.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasamonrc" alt="lucasamonrc" /> </p>
 
-Programmer @UtahCountyGoverment.
+- 🔭 I’m currently working at [Utah County Government](https://utahcounty.gov)
 
-[![Twitter Badge](https://img.shields.io/badge/-@lucasamonrc-173b75?style=flat-square&labelColor=173b75&logo=twitter&logoColor=white&link=https://twitter.com/lucasamonrc)](https://twitter.com/lucasamonrc) 
-[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Castro-173b75?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasamonrc/)](https://www.linkedin.com/in/lucasamonrc/) 
-[![Gmail Badge](https://img.shields.io/badge/-lucasamonrc@gmail.com-173b75?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasamonrc@gmail.com)](mailto:lucasamonrc@gmail.com)
-[![Blog Badge](https://img.shields.io/badge/-lucasamonrc.dev-173b75?style=flat-square&labelColor=173b75&logo=blogger&logoColor=white&&link=https://lucasamonrc.dev)](https://lucasamonrc.dev)
+- 💻 All of my projects are available at [GitHub](https://github.com/lucasamonrc?tab=repositories)
 
-I’m a father :family:, a husband :couple:, a teacher :apple:, and a software engineer :computer:. My mission is to build and deliver quality software.
+- ▶️ I ocassionaly post blogs on [medium.com/@lucasamonrc](https://medium.com/@lucasamonrc)
 
-## :rocket: Technology Summary
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, and Testing**
 
-You will find in the table below the skills that I have been using lately. On the left are the skills we have been using in the project we are developing at Utah County Government; and on the right, the skills that I have been studying and practicing on my spare time.
+- 📫 How to reach me **lucasamonrc@gmail.com**
 
-| Working                                       | Proficient                                    |
-|-----------------------------------------------|-----------------------------------------------|
-| [Vue.js](https://vuejs.org/)                  | [ReactJS](https://reactjs.org/)               |
-| [Nuxt](https://nuxtjs.org/)                   | [React Native](https://reactnative.dev/)      |
-| [Node.js](https://nodejs.org/en/)             | [PostgreSQL](https://www.postgresql.org/)     |
-| [Express](https://expressjs.com/)             | [Typescript](https://www.typescriptlang.org/) |
-| [Knex.js](http://knexjs.org/)                 | [TypeORM](https://typeorm.io/#/)              |
-| [Oracle](https://www.oracle.com/database/)    | [Docker](https://www.docker.com/)             |
+<p align="left">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
+<img src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=lucasamonrc&show_icons=true" alt="lucasamonrc"/> 
+</p>
 
-## :computer: Recent Projects
-* ### :lock: Open Nudge (Job board react app)
-  * **Tech Stack:** ReactJS, Node.js, SQLite3
-  * **Links:** [GitHub Repository](https://github.com/lucasamonrc/open-nudge) | [Blog Post](https://lucasamonrc.dev) (coming soon)
-* ### :compass: GitHub Explorer (Dynamic front-end react app)
-  * **Tech Stack:** ReactJS, Axios
-  * **Links:** [GitHub Repository](https://github.com/lucasamonrc/github_explorer) | [Netlify Live](https://repofinder.netlify.app/)
-* ### :dollar: GoFinances (Full-stack budgeting app)
-  * **Tech Stack:** Typescript, PostgreSQL, ReactJS, TypeORM
-  * **Links:** [Client Repository](https://github.com/lucasamonrc/gofinances-client) | [Server repository](https://github.com/lucasamonrc/gofinances-server)
-* ### :pencil: Personal Blog (Static Generated Next.js Site)
-  * **Tech Stack:** ReactJS, Next.js
-  * **Links:** [GitHub Repository](https://github.com/lucasamonrc/nextjs-blog) | [Vercel Live](https://lucasamonrc.dev)
-* ### :triangular_ruler: TypeScript Server Boilerplate
-  * **Tech Stack:** Node.js, TypeScript, Express, TypeORM, ESLint
-  * **Links:** [GitHub Repository](https://github.com/lucasamonrc/typescript-server-boilerplate) | [Blog Post](https://lucasamonrc.dev) (coming soon)
-* ### :walking: Walk With Me (Static Website)
-  * **Tech Stack:** HTML5, CSS3, JavaScript
-  * **Links:** [GitHub Repository](https://github.com/lucasamonrc/walk-with-me) | [Netlify Live](https://walkwithme.netlify.app/)
+<p align="center">
+<a href="https://twitter.com/lucasamonrc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lucasamonrc" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/lucasamonrc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lucasamonrc" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/lucasamonrc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="lucasamonrc" height="20" width="20" /></a>
+</p>
