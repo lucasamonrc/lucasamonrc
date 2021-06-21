@@ -2,7 +2,7 @@
 <h3 align="center">I’m a father, a husband, a teacher, and a software engineer. My mission is to build and deliver quality software.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasamonrc" alt="lucasamonrc" /> </p>
 
-- 🔭 I’m currently working at BYU Law
+- 🔭 I’m currently working at Utah County Government
 
 - 💻 All of my projects are available on my [GitHub](https://github.com/lucasamonrc?tab=repositories)
 
