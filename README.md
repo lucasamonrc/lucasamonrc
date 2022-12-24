@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://gist.githubusercontent.com/lucasamonrc/054e0358bef66d02c480db99d1d76ccb/raw/ac8c141c7724f63517a5ee655954f3d8fe693f63/githubcard.svg"/>
+<img align="right" height="590em" src="https://gist.githubusercontent.com/lucasamonrc/054e0358bef66d02c480db99d1d76ccb/raw/9d5f410612c5d4ed877ac4cc29f2e6982b8b9d96/githubcard.svg"/>
 <h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Lucas Castro</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasamonrc&color=green" alt="Profile views" /> </p>
 
