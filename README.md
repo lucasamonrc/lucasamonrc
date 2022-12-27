@@ -6,7 +6,7 @@
 
 - 🎓 I’m currently a student at [BYU](https://byu.edu)
 
-- ✏️ I try to write regularly at [lucasamonrc.dev](https://lucasamonrc.dev)
+- ✏️ I try to write regularly at [100+ things](https://blog.lucasamonrc.dev)
 
 - 💬 Ask me about **JavaScript, React.js, HTML, CSS, SQL, and Node.js**
 
