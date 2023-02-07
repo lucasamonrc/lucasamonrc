@@ -8,6 +8,8 @@
 
 - ✏️ I try to write regularly at [+100 things](https://blog.lucasamonrc.dev)
 
+- 💼 Sfotware Engineer @ [Trinsic](https://trinsic.id)
+
 - 💬 Ask me about **JavaScript, React.js, HTML, CSS, SQL, and Node.js**
 
 <br><br>
