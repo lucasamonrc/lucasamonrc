@@ -1,58 +1,19 @@
-<img align="right" height="590em" src="https://gist.githubusercontent.com/lucasamonrc/054e0358bef66d02c480db99d1d76ccb/raw/9d5f410612c5d4ed877ac4cc29f2e6982b8b9d96/githubcard.svg"/>
-<h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Lucas Castro</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasamonrc&color=green" alt="Profile views" /> </p>
+Hello there! I’m [Lucas Castro](https://lucasamonrc.dev), and I live in Nebraska with my wife and two daughters. I’m currently building at [Trinsic](https://trinsic.id).
 
-- 🔥 Software developer with a passion for solving challenging problems
+Originally from Brazil, I've been writing software since high school. I just recently graduated with a Computer Science degree from [BYU](https://byu.edu) in Utah, with emphasis in Software Engineering and Human-Computer Interaction. During my time there, I interned at [Pluralsight](https://pluralsight.com), and [Trinsic](https://trinsic.id).
 
-- 🎓 I’m currently a student at [BYU](https://byu.edu)
+I'm a software developer with a passion for solving challenging problems. I aim to build in the open and share as much of my work as possible. I ocassionally write on [+100 things](https://blog.lucasamonrc.dev) so please check it out if you would like to see some of my work.
 
-- ✏️ I try to write regularly at [+100 things](https://blog.lucasamonrc.dev)
+Here are some of the technologies I like to work with
+- **Programming Languages:** TypeScript, C#, Python, Java, Rust, SQL.
+- **Libraries/Framworks:** NextJS, React.js, TailwindCSS, .NET, Jest, Cypress.io.
+- **Systems/Tooling:** Node.js, Docker, PostgreSQL, MySQL, MongoDB, Make, npm, git.
+- **Cloud:** AWS (Lambda, API Gateway, EC2, s3, DynamoDB), Azure (Functions, CosmoDB, SQL Database), Firebase (Firestore, Cloud Functions, Hosting).
 
-- 💼 Sfotware Engineer @ [Trinsic](https://trinsic.id)
+## Recent blog posts on [+100 things](https://blog.lucasamonrc.dev)
 
-- 💬 Ask me about **JavaScript, React.js, HTML, CSS, SQL, and Node.js**
-
-<br><br>
-
-## 🛠 &nbsp;Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
-
-<!--
-
-<br><br>
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=lucasamonrc&show_icons=true&theme=vision-friendly-dark" alt="lucasamonrc's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasamonrc&layout=compact&theme=vision-friendly-dark" alt="lucasamonrc's most languages"/>
-</p>
--->
-
-<br><br>
-
-## Contact
-
-<p align="left" style="background:yellow">
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-lucasamonrc-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="mailto:lucasamonrc@gmail.com" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-lucasamonrc-05122A?style=flat&logo=gmail&logoColor=white" alt="email"/>
-</a>
-<a href="https://lucasamonrc.dev" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-lucasamonrc-05122A?style=flat&logo=google-chrome&logoColor=white" alt="email"/>
-</a>
-</p>
+- [Q&A Progressive Web App + UX Case Study](https://blog.lucasamonrc.dev/p/7-q-and-a-progressive-web-app-ux)
+- [Tiny Markdown Compiler](https://blog.lucasamonrc.dev/p/6-tiny-markdown-compiler)
+- [Redis Clone: Building My Own Key-Value Store](https://blog.lucasamonrc.dev/p/5-redis-clone-building-my-own-key)
+- [Custom Terminal Setup](https://blog.lucasamonrc.dev/p/4-custom-terminal-setup)
+- [Simple hexdump utility in Rust](https://blog.lucasamonrc.dev/p/3-simple-hexdump-utility-in-rust)
