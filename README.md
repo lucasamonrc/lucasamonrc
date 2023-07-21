@@ -10,10 +10,10 @@ Here are some of the technologies I like to work with
 - **Systems/Tooling:** Node.js, Docker, PostgreSQL, MySQL, MongoDB, Make, npm, git.
 - **Cloud:** AWS (Lambda, API Gateway, EC2, s3, DynamoDB), Azure (Functions, CosmoDB, SQL Database), Firebase (Firestore, Cloud Functions, Hosting).
 
-## Recent blog posts on [lucasamonrc](https://www.lucasamonrc.dev)
+## Recent blog posts on [lucasamonrc](https://lucasamonrc.com)
 
-- [Q&A Progressive Web App + UX Case Study](https://blog.lucasamonrc.dev/p/7-q-and-a-progressive-web-app-ux)
-- [Tiny Markdown Compiler](https://blog.lucasamonrc.dev/p/6-tiny-markdown-compiler)
-- [Redis Clone: Building My Own Key-Value Store](https://blog.lucasamonrc.dev/p/5-redis-clone-building-my-own-key)
-- [Custom Terminal Setup](https://blog.lucasamonrc.dev/p/4-custom-terminal-setup)
-- [Simple hexdump utility in Rust](https://blog.lucasamonrc.dev/p/3-simple-hexdump-utility-in-rust)
+- [Q&A Progressive Web App + UX Case Study](https://lucasamonrc.com/p/7-q-and-a-progressive-web-app-ux)
+- [Tiny Markdown Compiler](https://lucasamonrc.com/p/6-tiny-markdown-compiler)
+- [Redis Clone: Building My Own Key-Value Store](https://lucasamonrc.com/p/5-redis-clone-building-my-own-key)
+- [Custom Terminal Setup](https://lucasamonrc.com/p/4-custom-terminal-setup)
+- [Simple hexdump utility in Rust](https://lucasamonrc.com/p/3-simple-hexdump-utility-in-rust)
