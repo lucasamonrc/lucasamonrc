@@ -2,7 +2,7 @@ Hello there! I’m Lucas Castro, and I live in Nebraska with my wife and two dau
 
 Originally from Brazil, I've been writing software since high school. I just recently graduated with a Computer Science degree from [BYU](https://byu.edu) in Utah, with emphasis in Software Engineering and Human-Computer Interaction. During my time there, I interned at [Pluralsight](https://pluralsight.com), and [Trinsic](https://trinsic.id).
 
-I'm a software developer with a passion for solving challenging problems. I aim to build in the open and share as much of my work as possible. I ocassionally write on [lucasamonrc](https://www.lucasamonrc.dev) so please check it out if you would like to see some of my work.
+I'm a software developer with a passion for solving challenging problems. I aim to build in the open and share as much of my work as possible. I ocassionally write on [lucasamonrc](https://www.lucasamonrc.com) so please check it out if you would like to see some of my work.
 
 Here are some of the technologies I like to work with
 - **Programming Languages:** TypeScript, C#, Python, Java, Rust, SQL.
