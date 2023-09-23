@@ -1,11 +1,12 @@
-Hello there! I’m Lucas Castro, and I live in Nebraska with my wife and two daughters. I’m currently building at [Trinsic](https://trinsic.id).
+I'm a software engineer, husband, father, latter-day saint, and life-long learner. I like to think deeply about things, and my goal is to master software craftsmanship.
 
-Originally from Brazil, I've been writing software since high school. I just recently graduated with a Computer Science degree from [BYU](https://byu.edu) in Utah, with emphasis in Software Engineering and Human-Computer Interaction. During my time there, I interned at [Pluralsight](https://pluralsight.com), and [Trinsic](https://trinsic.id).
+I'm was born and raised in Curitiba, Brazil, and I've been writing software since high school and it has become a major part of my life ever since. I graduated with a Computer Science degree from [BYU](https://byu.edu) in Utah, with emphasis in Software Engineering and Human-Computer Interaction. 
 
-I'm a software developer with a passion for solving challenging problems. I aim to build in the open and share as much of my work as possible.
+I've worked every semester of my college career, either tutoring a class or doing contact work. I landed internships writing software with [The Church of Jesus Christ of Latter-day Saints](https://pchurchofjesuschrist.org), [Trinsic](https://trinsic.id), and [Pluralsight](https://pluralsight.com).
 
-Here are some of the technologies I like to work with
-- **Programming Languages:** TypeScript, C#, Python, Java, Rust, SQL.
-- **Libraries/Framworks:** NextJS, React.js, TailwindCSS, .NET, Jest, Cypress.io.
-- **Systems/Tooling:** Node.js, Docker, PostgreSQL, MySQL, MongoDB, Make, npm, git.
-- **Cloud:** AWS (Lambda, API Gateway, EC2, s3, DynamoDB), Azure (Functions, CosmoDB, SQL Database), Firebase (Firestore, Cloud Functions, Hosting).
+Here are some of the stuff I like to work with
+
+Languages: JavaScript, TypeScript, Python, SQL, C#, Java, C
+Technologies: React, Node.js, Flask, Tailwind CSS, GraphQL, ASP.NET, MongoDB, DynamoDB
+Cloud: AWS, Microsoft Azure, Firebase, GitHub Actions, Docker
+Practices: Automated Tests, CI/CD, Agile, Microservices, Technical Writing, UX Design
