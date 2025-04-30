@@ -12,4 +12,4 @@ Places I've worked:
 
 - Founding Product Engineer at [Trinsic](https://trinsic.id/) (feb 2023-present)
 - Engineering Intern at [Pluralsight](https://www.pluralsight.com/) (may 2022-aug 2022)
-- Programmer Intern at [Utah County Gov](https://www.utahcounty.gov/) (jun 2020-aug 2021)
+- Programmer (Contractor) at [Utah County Gov](https://www.utahcounty.gov/) (jun 2020-aug 2021)
