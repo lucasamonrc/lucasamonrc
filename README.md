@@ -8,6 +8,7 @@ I’m very comfortable with TypeScript, C#, web servers, databases, queues, and 
 
 Places I've worked:
 
+- Full-Stack Engineer at [Cloudflare](https://www.cloudflare.com) (jul 2025-present)
 - Founding Engineer at [Trinsic](https://trinsic.id/) (feb 2023-jul 2025)
 - Engineering Intern at [Pluralsight](https://www.pluralsight.com/) (may 2022-aug 2022)
-- Programmer (Contractor) at [Utah County Gov](https://www.utahcounty.gov/) (jun 2020-aug 2021)
+- Programmer at [Utah County Gov](https://www.utahcounty.gov/) (jun 2020-aug 2021)
