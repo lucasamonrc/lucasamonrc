@@ -1,12 +1,12 @@
-Hello, there! I'm Lucas, and I'm a software engineer based in Austin, TX.
+I’m Lucas, a software developer based in Austin, TX. I’m also a husband, father, latter-day saint, and gamer.
 
-I'm also a husband, father, latter-day saint, gamer, and life-long learner.
+I’m passionate about writing software that solves real problems for people and businesses. I do my best work in fast-paced, cross-functional teams, and I like to own my projects end-to-end—design, implementation, debugging, and release.
 
-I thrive on writing software that solves real problems for real people. I do my best work in fast-paced, cross-functional teams, and I like to own my projects end-to-end—design, implementation, debugging, and release. While I primarily enjoy product engineering, I’m also happy to tackle infrastructure or platform engineering challenges. In my experience, prioritizing simplicity over premature optimization/abstraction leads to better solutions for the problems users face today.
+While the majority of my experience is in product engineering, I’m always happy to work on infrastructure or platform challenges.
 
-I’m very comfortable with TypeScript, C#, web servers, databases, queues, and building systems end-to-end. I’ve also written Go in production, though it’s not my comfort zone.
+I’m very comfortable programming with TypeScript, C#, Go, web servers, databases, queues, and building systems end-to-end.
 
-Places I've worked:
+Places I’ve worked:
 
 - Systems Engineer at [Cloudflare](https://www.cloudflare.com) (jul 2025-present)
 - Founding Engineer at [Trinsic](https://trinsic.id/) (feb 2023-jul 2025)
