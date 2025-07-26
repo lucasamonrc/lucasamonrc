@@ -9,3 +9,10 @@ You can find me here on GitHub, and [LinkedIn](https://www.linkedin.com/in/lucas
 ### Contact
 
 I enjoy meeting new people! You're always welcome to send me an email at [hello@lucasacastro.com](mailto:hello@lucasacastro.com). I like chatting about programming, games, parenthood, and religion. If you want to talk about something else, that's fine too!
+
+### Places I’ve worked:
+
+- Systems Engineer at [Cloudflare](https://www.cloudflare.com) (jul 2025-present)
+- Founding Engineer at [Trinsic](https://trinsic.id/) (feb 2023-jul 2025)
+- Engineering Intern at [Pluralsight](https://www.pluralsight.com/) (may 2022-aug 2022)
+- Programmer at [Utah County Gov](https://www.utahcounty.gov/) (jun 2020-aug 2021)
