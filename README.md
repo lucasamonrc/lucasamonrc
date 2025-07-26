@@ -1,14 +1,11 @@
-I’m Lucas, a software developer based in Austin, TX. I’m also a husband, father, latter-day saint, and gamer.
+Hello, there! I'm Lucas.
 
-I’m passionate about writing software that solves real problems for people and businesses. I do my best work in fast-paced, cross-functional teams, and I like to own my projects end-to-end—design, implementation, debugging, and release.
+I work as software engineer at [Cloudflare](https://www.cloudflare.com). Previously I was a founding engineer at [Trinsic](https://trinsic.id), and before that I was attending school at [BYU](https://byu.edu) in Provo, UT.
 
-While the majority of my experience is in product engineering, I’m always happy to work on infrastructure or platform challenges.
+I like to [write](https://lucasacastro.com/writing) every now and then, and about once a year I give a [talk](https://lucasacastro.com/talks at a developer conference or local meetup.
 
-I’m very comfortable programming with TypeScript, C#, Go, web servers, databases, queues, and building systems end-to-end.
+You can find me here on GitHub, and [LinkedIn](https://www.linkedin.com/in/lucasamonrc).
 
-Places I’ve worked:
+### Contact
 
-- Systems Engineer at [Cloudflare](https://www.cloudflare.com) (jul 2025-present)
-- Founding Engineer at [Trinsic](https://trinsic.id/) (feb 2023-jul 2025)
-- Engineering Intern at [Pluralsight](https://www.pluralsight.com/) (may 2022-aug 2022)
-- Programmer at [Utah County Gov](https://www.utahcounty.gov/) (jun 2020-aug 2021)
+I enjoy meeting new people! You're always welcome to send me an email at [hello@lucasacastro.com](mailto:hello@lucasacastro.com). I like chatting about programming, games, parenthood, and religion. If you want to talk about something else, that's fine too!
